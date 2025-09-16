@@ -1,7 +1,5 @@
 
 
-[![Bingfeng Jiang](https://img.shields.io/badge/Bingfeng Jiang-github-blue?logo=github)](https://github.com/yunxinghe432)
-
 He is now studying at NJU.
 
 #### Contact
